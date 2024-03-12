@@ -1,0 +1,18 @@
+Algoritmo de compras ao mercado:
+
+Inicio
+Faça sua lista de compras do supermercado
+Você está no supermercado?
+sim: Segue
+não: Vá até o supermercado
+Pegue um carrinho de compras
+Pegar os produtos das lista e colocar no carrinho
+Comparar preço dos produtos que tenha na lista e no carrinho
+Vá até o caixa
+Coloque cada o produto no balcão do caixa
+Calcule o valor total somando o valor de todos os produto
+Pega o valor total da compra
+Empacote os produtos
+Coloque os produtos empacatados de volta ao carrinho
+Saia do supermercado
+Fim

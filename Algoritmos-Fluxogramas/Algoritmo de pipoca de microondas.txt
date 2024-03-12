@@ -1,0 +1,30 @@
+Algoritmo de pipoca de microondas:
+
+Pegar o saco de pipoca de microondas que esteja lacrado;
+Abre o saco de pipoca;
+Pegue o pacote de pipoca de dentro do saco;
+Jogue no lixo o saco vazio de pipoca;
+Coloque o pacote de pipoca em cima da mesa;
+levante pra cima a ponta superior da pipoca;
+levante pra cima a ponta inferior da pipoca;
+Vá até o microondas;
+Verifique se o microondas está ligado na tomada;
+	Se o microondas estiver desligado, ligue-o na tomada;
+Abra a porta do microondas;
+Pegue a pipoca que está em cima da mesa na posição que ela está;
+Coloque a pipoca dentro do microondas;
+Coloque 1 minuto e 30 segundos no timer do microondas;
+Feche a porta do microondas;
+Inicie o microondas;
+Vá até a cozinha;
+Pegue um recipiente de tamanho grande;
+Coloque o recipiente em cima da mesa;
+Quando o timer do microondas acabar, abra a porta do microondas;
+Pegue a pipoca com cuidado para não se queimar;
+Feche a porta do microondas;
+Abra o pacote de microondas;
+Coloque a pipoca dentro da vazilha;
+Jogue no lixo o pacote de pipoca vazio;
+Vá até a cozinha;
+Pegue 10g de sal;
+Coloque os 10g de sal espalhando em cima da pipoca.

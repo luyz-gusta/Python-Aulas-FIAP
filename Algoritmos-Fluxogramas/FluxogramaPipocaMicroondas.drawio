@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net" modified="2024-03-03T17:37:36.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KFoiO5CI5aNFtN0TbKia" version="24.0.1" type="device">
+  <diagram name="Página-1" id="FIl7-S7cU178m58neCTR">
+    <mxGraphModel dx="2868" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PShv-r9exDqE7YzYwOCn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-1" target="PShv-r9exDqE7YzYwOCn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="130" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-2" target="PShv-r9exDqE7YzYwOCn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-2" value="Pegar o saco de pipoca de microondas que esteja lacrado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-4" target="PShv-r9exDqE7YzYwOCn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-4" value="Abra o saco de pipoca" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-6" target="PShv-r9exDqE7YzYwOCn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-6" value="Pegue o pacote de pipoca de dentro do saco" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-8" target="PShv-r9exDqE7YzYwOCn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-8" value="Jogue no lixo o saco vazio de pipoca" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-10" target="PShv-r9exDqE7YzYwOCn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-10" value="&lt;div&gt;Coloque o pacote de pipoca em cima da mesa&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-12" target="PShv-r9exDqE7YzYwOCn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-12" value="&lt;div&gt;levante pra cima a ponta superior da pipoca&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-14" target="PShv-r9exDqE7YzYwOCn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-14" value="&lt;div&gt;levante pra cima a ponta inferior da pipoca&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-16" target="PShv-r9exDqE7YzYwOCn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-16" value="&lt;div&gt;Vá até o microondas&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-18" target="PShv-r9exDqE7YzYwOCn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-18" target="PShv-r9exDqE7YzYwOCn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-18" value="o microondas está ligado na tomada?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1370" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-20" value="Ligue o microondas na tomada" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-22" target="PShv-r9exDqE7YzYwOCn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-22" value="Abra a porta do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-24" target="PShv-r9exDqE7YzYwOCn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-24" value="Abra a porta do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1539.67" as="sourcePoint" />
+            <mxPoint x="675" y="1539.67" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="675" y="1539.67" />
+              <mxPoint x="800" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-32" target="PShv-r9exDqE7YzYwOCn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-32" value="&lt;div&gt;Pegue a pipoca que está em cima da mesa na posição que ela está&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-34" target="PShv-r9exDqE7YzYwOCn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-34" value="Coloque a pipoca dentro do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-36" target="PShv-r9exDqE7YzYwOCn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-36" value="Coloque 1 minuto e 30 segundos no timer do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-38" target="PShv-r9exDqE7YzYwOCn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-38" value="Feche a porta do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-40" target="PShv-r9exDqE7YzYwOCn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-40" value="Inicie o microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-42" target="PShv-r9exDqE7YzYwOCn-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-42" value="Vá até a cozinha" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-44" target="PShv-r9exDqE7YzYwOCn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-44" value="Pegue um recipiente de tamanho grande" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-46" target="PShv-r9exDqE7YzYwOCn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-46" value="Coloque o recipiente em cima da mesa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-48" target="PShv-r9exDqE7YzYwOCn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-48" value="Quando o timer do microondas acabar, abra a porta do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-50" target="PShv-r9exDqE7YzYwOCn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-50" value="&lt;div&gt;Pegue a pipoca com cuidado para não se queimar&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-52" target="PShv-r9exDqE7YzYwOCn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-52" value="Feche a porta do microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-54" target="PShv-r9exDqE7YzYwOCn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-54" value="Abra o pacote de microondas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-56" target="PShv-r9exDqE7YzYwOCn-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-56" value="Coloque a pipoca dentro da vazilha" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-58" target="PShv-r9exDqE7YzYwOCn-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-58" value="Jogue no lixo o pacote de pipoca vazio" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-60" target="PShv-r9exDqE7YzYwOCn-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-60" value="Vá até a cozinha" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-62" target="PShv-r9exDqE7YzYwOCn-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-62" value="Pegue 10g de sal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PShv-r9exDqE7YzYwOCn-64" target="PShv-r9exDqE7YzYwOCn-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-64" value="Coloque os 10g de sal espalhando em cima da pipoca" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PShv-r9exDqE7YzYwOCn-66" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="4130" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
