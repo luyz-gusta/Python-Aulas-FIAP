@@ -5,14 +5,14 @@ print("------------- Pares -------------")
 while cont <= 20 :
     if cont % 2 == 0:
         print(f"{cont}")
-    cont+=2
+    cont+=1
 
 #Exercicio 2
 print("------------- Tabuadas -------------")
 multiplicador = 1
 multiplicando = 1
 
-while multiplicador <= 10:
+while multiplicador <= 50:
     print(f"Tabuada do {multiplicador}: ")
 
     while multiplicando <= 10:

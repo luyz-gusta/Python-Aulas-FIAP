@@ -41,7 +41,7 @@ while exec_again == True:
     except:
         print("Opção inválida! Jogue novamente")
     finally:
-        again = input("Deseja executar novamente?(Y/N)\n")
+        again = input("Deseja jogar novamente?(Y/N)\n")
         if again.lower() == "y":
             exec_again = True
         else:
