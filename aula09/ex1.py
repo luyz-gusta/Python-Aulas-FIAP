@@ -29,9 +29,11 @@ for cont in range(1, linhas * 2, 2):
     spacer-=1
 print((f"{' ':<{linhas - 2}}" + "| |\n") * 2)
 
+# base = linhas
 # for cont in range(1, linhas * 2, 2):
 #     print(f"{' ':<{linhas}}" + "*" * cont)
 #     linhas -= 1
+# print((f"{' ':<{base - 1}}" + "| |\n") * 2)
 
 # n = 1
 # for cont in range(0, linhas):
@@ -39,3 +41,14 @@ print((f"{' ':<{linhas - 2}}" + "| |\n") * 2)
 #     print("*" * (n))
 #     linhas -= 1
 #     n += 2
+
+# spacer = linhas -1
+# for cont in range(1, linhas * 2, 2):
+#     if(cont == 1 or cont == (linhas * 2) -1):
+#         print(" " * spacer, end="")
+#         print("*" * cont)
+#     else:
+#         print(" " * spacer, end="")
+#         print(f"{'*':<{cont - 1}}" + "*")
+#     spacer-=1
+# print((f"{' ':<{linhas - 2}}" + "| |\n") * 2)
